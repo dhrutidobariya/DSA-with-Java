@@ -7,7 +7,7 @@
 [Bubble Sort](./Sorting/bubblesortort.java)<br>
 [Insertion Sort](./Sorting/insertionSort.java)<br>
 [Selection Sort](./Sorting/SelectionSort.java)<br>
-[Cy Sort](./Sorting/CySort.java)<br>
+[Cyclic Sort](./Sorting/CySort.java)<br>
 [Heap Sort](./Sorting/HeapSort.java)<br>
 </ol>
    
